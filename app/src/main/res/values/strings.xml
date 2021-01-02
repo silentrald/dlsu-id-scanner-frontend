@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">id-scanner</string>
+    <string name="tap">T A P</string>
+    <string name="fa_id_badge"></string>
+    <string name="id_scanner">ID SCANNER</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">L O G I N</string>
+    <string name="fa_sign_out_alt"></string>
+</resources>
